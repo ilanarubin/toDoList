@@ -17,6 +17,7 @@
 		694C914622D93FA200ECAB40 /* ToDoTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694C914522D93FA200ECAB40 /* ToDoTableViewController.swift */; };
 		694C914822D9414100ECAB40 /* ToDo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 694C914722D9414100ECAB40 /* ToDo.swift */; };
 		695EB2D422DCEA34005E147F /* AddToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695EB2D322DCEA34005E147F /* AddToDoViewController.swift */; };
+		695EB2D622DCF593005E147F /* CompleteToDoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 695EB2D522DCF593005E147F /* CompleteToDoViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		694C914522D93FA200ECAB40 /* ToDoTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoTableViewController.swift; sourceTree = "<group>"; };
 		694C914722D9414100ECAB40 /* ToDo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDo.swift; sourceTree = "<group>"; };
 		695EB2D322DCEA34005E147F /* AddToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddToDoViewController.swift; sourceTree = "<group>"; };
+		695EB2D522DCF593005E147F /* CompleteToDoViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CompleteToDoViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 			children = (
 				694C911422D93C1200ECAB40 /* AppDelegate.swift */,
 				694C911822D93C1200ECAB40 /* Main.storyboard */,
+				695EB2D522DCF593005E147F /* CompleteToDoViewController.swift */,
 				695EB2D322DCEA34005E147F /* AddToDoViewController.swift */,
 				694C914722D9414100ECAB40 /* ToDo.swift */,
 				694C914522D93FA200ECAB40 /* ToDoTableViewController.swift */,
@@ -269,6 +272,7 @@
 				694C914622D93FA200ECAB40 /* ToDoTableViewController.swift in Sources */,
 				695EB2D422DCEA34005E147F /* AddToDoViewController.swift in Sources */,
 				694C911522D93C1200ECAB40 /* AppDelegate.swift in Sources */,
+				695EB2D622DCF593005E147F /* CompleteToDoViewController.swift in Sources */,
 				694C914822D9414100ECAB40 /* ToDo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
